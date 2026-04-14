@@ -6,6 +6,6 @@ plotly
 scikit-learn
 statsmodels
 prophet
-tensorflow
+tensorflow-cpu
 streamlit
 yfinance
